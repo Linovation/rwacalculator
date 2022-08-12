@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RWACalculator/rwa-calculator/static/css/main.e1b9e8b4.css",
+    "main.js": "/RWACalculator/rwa-calculator/static/js/main.d1a11bd0.js",
+    "static/js/728.23f8baa6.chunk.js": "/RWACalculator/rwa-calculator/static/js/728.23f8baa6.chunk.js",
+    "static/js/750.9122dbe9.chunk.js": "/RWACalculator/rwa-calculator/static/js/750.9122dbe9.chunk.js",
+    "static/js/713.91f69424.chunk.js": "/RWACalculator/rwa-calculator/static/js/713.91f69424.chunk.js",
+    "static/js/653.7ed4f448.chunk.js": "/RWACalculator/rwa-calculator/static/js/653.7ed4f448.chunk.js",
+    "static/media/user-round.svg": "/RWACalculator/rwa-calculator/static/media/user-round.13b5a31bebd2cc6016d6db2cac8e92d1.svg",
+    "index.html": "/RWACalculator/rwa-calculator/index.html",
+    "static/media/earning.svg": "/RWACalculator/rwa-calculator/static/media/earning.b019e86a7ee117bd6bb2e8cab90c0db5.svg",
+    "main.e1b9e8b4.css.map": "/RWACalculator/rwa-calculator/static/css/main.e1b9e8b4.css.map",
+    "main.d1a11bd0.js.map": "/RWACalculator/rwa-calculator/static/js/main.d1a11bd0.js.map",
+    "728.23f8baa6.chunk.js.map": "/RWACalculator/rwa-calculator/static/js/728.23f8baa6.chunk.js.map",
+    "750.9122dbe9.chunk.js.map": "/RWACalculator/rwa-calculator/static/js/750.9122dbe9.chunk.js.map",
+    "713.91f69424.chunk.js.map": "/RWACalculator/rwa-calculator/static/js/713.91f69424.chunk.js.map",
+    "653.7ed4f448.chunk.js.map": "/RWACalculator/rwa-calculator/static/js/653.7ed4f448.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1b9e8b4.css",
+    "static/js/main.d1a11bd0.js"
+  ]
+}
